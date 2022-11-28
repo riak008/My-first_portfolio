@@ -36,7 +36,7 @@ section{
 .link-button{
 
     text-decoration: none;
-    background-image: linear-gradient(orange,green);
+    background-image: linear-gradient(orange,rgb(223, 88, 88));
     color: white;
     font-weight: 400;
     padding: 10px 40px;
@@ -46,5 +46,12 @@ section{
 .top-banner{
     background-image: url(photos/images/top-banner.png);
     background-repeat: no-repeat;
+
+}
+.coxs-bazar{
+
+    background-image: url(photos/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 
 }
