@@ -1,0 +1,50 @@
+body{
+
+    font-family: 'Nerko One', cursive;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+
+    font-size: 50px;
+}
+
+.hignlight-name{
+
+    color: orange;
+}
+
+section{
+
+    display: flex;
+}
+    
+.half-width{
+
+    width: 50%;
+    padding-left: 5%;
+
+
+
+}
+
+.half-width img{
+
+    width: 75%;
+}
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(orange,green);
+    color: white;
+    font-weight: 400;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.top-banner{
+    background-image: url(photos/images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
